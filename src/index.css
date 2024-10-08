@@ -1,0 +1,34 @@
+/* Navbar container padding */
+.navbar-container {
+  padding: 10px 20px;
+}
+
+/* Custom styling for the logo */
+.navbar-logo {
+  height: 40px;
+  width: auto;
+}
+
+/* Styling for the vertical divider */
+.navbar-divider {
+  height: 40px; /* Match the height of the logo or button */
+  width: 1px;
+  background-color: #000; /* Light gray color for the divider */
+  margin: 0 15px;
+}
+
+/* Navbar title styling */
+.navbar-title {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.navbar-subtitle {
+  font-size: 0.875rem;
+  color: #6c757d; /* Bootstrap text-muted color */
+}
+
+/* Styling for right-aligned button */
+.navbar-right {
+  margin-left: auto;
+}
